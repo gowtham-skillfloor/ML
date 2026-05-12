@@ -12,6 +12,7 @@ Tools Used:
 * NumPy
 * Pandas
 * Scikit-learn
+* Matplotlib
 
 - [x] Project File Uploaded
 - [ ] Report
