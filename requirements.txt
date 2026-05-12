@@ -3,3 +3,4 @@ numpy=2.14
 scikit-learn=2.33
 pandas=3.12
 joblib=1.11
+Matplotlib=1.51
