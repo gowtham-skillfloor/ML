@@ -1,0 +1,17 @@
+This project is about classification of customers who are willing to 
+subscribe to term deposits. The data is downloaded from UCI ML Repository.
+
+
+The outcomes of the project are:
+
+1. KNN model achieved an accuracy of 85%
+2. Random Forest model achieved an accuracy of 94%
+
+Important features for this classifaction problem are:
+
+1. Account balance
+2. Call Duration
+3. Age
+4. Job Status
+
+The model could be improved by adding more data.
